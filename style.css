@@ -1,0 +1,62 @@
+@charset "utf-8";
+/* CSS Document */
+
+.LineaHR{
+    width: 70%;
+}
+
+
+.Encabezado {
+    font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+    font-style: normal;
+    color: #5B2B77;
+    font-size: xx-large;
+    width: 75%;
+}
+
+.EncabezadoP {
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    color: #2D1933;
+    width: 75%;
+    font-size: 45px;
+}
+
+.EncabezadoS {
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-style: italic;
+    color: #2D1933;
+    font-size: 45px;
+    width: 75%;
+}
+
+.Encabezado3 {
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-style: italic;
+    color: #A80A54;
+    font-size: 45px;
+    width: 75%;
+}
+
+.Titulo1 {
+    font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+    font-style: normal;
+    font-size: x-large;
+    width: 75%;
+}
+
+.TextoNormal {
+    font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+    font-style: normal;
+    font-size: large;
+    width: 75%;
+    margin-left: 0px;
+}
+
+.TextoNormal2 {
+    font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+    font-style: normal;
+    font-size: large;
+    width: 75%;
+    margin-left: 80px;
+}
